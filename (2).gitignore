@@ -1,0 +1,5 @@
+.env
+/venv
+/venv/Lib
+/venv/Lib/site-packages
+/venv/Lib/site-packages/__pycache__
